@@ -1,0 +1,15 @@
+/* /polls/static/polls/style.css */
+
+body {
+    background: white url("images/background.gif") no-repeat right bottom;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 40px;
+}
+
+li a {
+    color: green;
+}
